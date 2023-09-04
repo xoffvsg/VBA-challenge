@@ -1,2 +1,2 @@
-# Module 1 Challenge
+# Module 2 Challenge
 ## Data Analyst Boot Camp - VBA Challenge
